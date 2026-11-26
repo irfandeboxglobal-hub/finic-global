@@ -1,0 +1,1 @@
+var e=`/assets/bg-C00wUTNT.webp`;export{e as t};
