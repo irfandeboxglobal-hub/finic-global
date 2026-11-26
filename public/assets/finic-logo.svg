@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 280 72" fill="none" role="img" aria-label="Finic Global Solutions">
+  <defs>
+    <linearGradient id="finic-accent" x1="0" y1="0" x2="64" y2="64" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#102b68" />
+      <stop offset="55%" stop-color="#0284c7" />
+      <stop offset="100%" stop-color="#14b8a6" />
+    </linearGradient>
+  </defs>
+  <!-- Geometric Modern F Mark -->
+  <rect x="4" y="8" width="56" height="56" rx="14" fill="url(#finic-accent)" />
+  <path d="M21 22H44V29H28.5V34.5H41V41.5H28.5V51H21V22Z" fill="#ffffff" />
+  <rect x="43" y="43" width="7" height="7" rx="2" fill="#5eead4" />
+  <!-- Wordmark -->
+  <text x="74" y="38" fill="#102b68" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="30" font-weight="800" letter-spacing="-0.8">Finic</text>
+  <text x="75" y="57" fill="#0f4c81" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13.5" font-weight="700" letter-spacing="2.2">GLOBAL SOLUTIONS</text>
+</svg>

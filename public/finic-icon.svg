@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none">
+  <defs>
+    <linearGradient id="finic-icon-grad" x1="0" y1="0" x2="64" y2="64" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#102b68" />
+      <stop offset="55%" stop-color="#0284c7" />
+      <stop offset="100%" stop-color="#14b8a6" />
+    </linearGradient>
+  </defs>
+  <rect width="64" height="64" rx="16" fill="url(#finic-icon-grad)" />
+  <path d="M19 16H46V24H27.5V30.5H42.5V38.5H27.5V49H19V16Z" fill="#ffffff" />
+  <rect x="44" y="41" width="8" height="8" rx="2.5" fill="#5eead4" />
+</svg>
+
